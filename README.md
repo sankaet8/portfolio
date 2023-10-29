@@ -3,8 +3,7 @@
 #### Technical Skills: Python, Java, AWS, Snowflake, MATLAB
 
 ## Education			        		
-- B.S., Computer Science | Georgia Institute of Technology (_Aug 2021 - May 2025_)
-- GPA: 4.00
+- B.S., Computer Science (GPA: 4.00) | Georgia Institute of Technology (_Aug 2021 - May 2025_)
 
 ## Work Experience
 
