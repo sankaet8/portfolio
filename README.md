@@ -20,6 +20,7 @@
 
 **Research Assistant | iFAN Lab (Cybersecurity and AI) (_May 2023 – Aug 2023_)**
 - Worked with Dr. Fan Zhang in investigating the cybersecurity vulnerabilities as well as defense strategies of Generative AI in an Autonomous ML-based Nuclear Power Plant.
+
 **Teaching Assistant | Computer Organization and Programming (CS 2110) (_Aug 2022 – May 2023_)**
 - Managed class of 835 students; Taught lab section of 56 students. Leveraged strong foundation in core hardware concepts: C and Assembly, and interpersonal skills to guide students
 
