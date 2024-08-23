@@ -1,27 +1,62 @@
 # Looking for an Internship 2024
-
-#### Technical Skills: Python, Java, AWS, Snowflake
+## Fun ways to learn and grow!
 
 ## Education			        		
 - B.S/M.S, Computer Science (GPA: 4.00) | Georgia Institute of Technology (_Aug 2021 - May 2025_)
+- Specialization in Machine Learning, Info-Internetworks
+- Relevant Coursework: Object Oriented Programming, Design and Analysis of Algorithms, Computer Organization,
+Operating Systems and Networks, Machine Learning, Computer Vision, Automata and Complexity, Robotics and Perception,
+Databases, Intro to Info Security
 
 ## Work Experience
 
-**Cloud Solutions & Enablement Intern | Ansys (_Aug 2023 - Present_)**
-- Worked in Agile Team on RESTful API development in Python and Rust
-- Developed benchmarking script to run in GitHub CI/CD pipeline on new version releases
-- Utilized NoSQL in MongoDB to query database to perform data analysis on the benchmarking data
+### Intelligent Teaching Assistant Design and Development (Jan. 2024 -- Aug. 2024)
+**Software Engineer Intern | Instructify.ai** - Atlanta, GA
 
-**Lead Machine Learning Intern | Runway (_May 2023 - Aug 2023_)**
-- Spearheaded the development of a Natural Language Processing Algorithm for parsing candidate resumes
-- Incorporated a pipeline into a pre-existing spaCy model and enhanced the algorithm through OpenAI API calls
-- Implemented backend route using AWS Lambda, Python Flask to run the algorithm in the DynamoDB database
+- Engineered a Retrieval-Augmented Generation (RAG) system integrating course materials to enhance a language model's capabilities as an intelligent teaching assistant.
+- Utilized LangChain and LlamaIndex for material retrieval, enabling contextually relevant question/answer generation.
+- Implemented LLM guardrails with a text classification model, ensuring accurate and appropriate student responses.
+- Developed and maintained back-end REST API endpoints and extensively tested for reliability with Postman.
 
-**Research Assistant | iFAN Lab (Cybersecurity and AI) (_May 2023 – Aug 2023_)**
-- Worked with Dr. Fan Zhang in investigating the cybersecurity vulnerabilities as well as defense strategies of Generative AI in an Autonomous ML-based Nuclear Power Plant.
+### ML for Financial Markets Research (Jan. 2024 -- May 2024)
+**Undergraduate Research Assistant | Georgia Institute of Technology** - Atlanta, GA
 
-**Teaching Assistant | Computer Organization and Programming (CS 2110) (_Aug 2022 – May 2023_)**
-- Managed class of 835 students; Taught lab section of 56 students. Leveraged strong foundation in core hardware concepts: C and Assembly, and interpersonal skills to guide students
+- Wrote Research Paper: *From Posts to Predictions: Leveraging Reddit Sentiments for Bitcoin Price Analysis*.
+- Conducted time series analysis using LSTM-GRU and Transformer models to predict Bitcoin prices based on historical data and sentiment analysis.
+- Web scraped Reddit comments and posts in relevant cryptocurrency sub-reddits to gather data for analysis.
+- Cleaned and pre-processed data using Entity Recognition techniques to enhance sentiment analysis accuracy.
+- Performed sentiment analysis on Reddit comments with various models, aggregating scores to ensure unbiased results.
+
+### Cloud Solutions and Enablement Intern (Aug. 2023 -- Dec. 2023)
+**Ansys** - Atlanta, GA
+
+- Developed a new suite of benchmarking tools in Python aimed to improve efficiency of code.
+- Incorporated benchmarking tools into existing CI/CD pipeline ensuring that inefficient code is not deployed.
+- Created elegant UI for benchmarking data analysis including graphs and tables for easy understanding of data.
+- Utilized NoSQL queries in MongoDB to query database and perform data analysis to provide useful metrics for employees.
+
+### NLP Algorithm for Improved Candidate Selection (May 2023 -- Aug. 2023)
+**Lead Machine Learning Intern | Runway** - Atlanta, GA
+
+- Spearheaded the development of Natural Language Processing algorithm for improved resume candidate selection.
+- Employed an augmented spaCy model to perform tokenization, part-of-speech tagging, and dependency parsing, ensuring precise data extraction and analysis.
+- Leveraged Named Entity Recognition (NER) techniques to identify and categorize key information such as names, skills, education, and experience within resumes.
+- Implemented a backend route using AWS Lambda, Flask in the Dynamo DB database on resume changes/additions.
+
+### ML Use Cases for Cybersecurity in Nuclear Plant (May 2023 -- Aug. 2023)
+**iFAN Lab | Georgia Institute of Technology** - Atlanta, GA
+
+- Worked with Dr. Fan Zhang in analyzing the areas of use for ML and Generative AI in a nuclear power plant.
+- Analyzed the security vulnerabilities within an Autonomous ML-based power plant and theorized plans of attacks.
+- Built attack strategies using Adversarial Machine Learning techniques to infiltrate the plant and cause undesirable behavior.
+- Began development of a Bi-directional GAN for anomaly detection within the nuclear power plant.
+
+### Undergraduate Teaching Assistant (Aug. 2022 -- May 2023)
+**Georgia Institute of Technology** - Atlanta, GA
+
+- Worked 20 hours/week as TA for Computer Organization and Programming, managing a class of 835 students.
+- Leveraged strong foundation in C and Assembly, as well as strong interpersonal skills to teach and guide students.
+- Recognized for exemplary teaching, with Thank-A-Teacher Award.
 
 ## Projects
 ### Movie Recommendation System | Machine Learning | Python, Scikit
